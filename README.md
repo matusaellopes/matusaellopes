@@ -3,10 +3,14 @@
 
 
 <!--  Cabeçalhos   -->
-# Titulo 1 
-## Titulo 2
-### Titulo 3
 
+*italico* ou _italico_
+**negrito** ou __negrito__
+___negrito___ ou ___italico___
+
+-lista 1
+-lista 2
+ -sublista 1
 <!--
 **matusaellopes/matusaellopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
