@@ -31,6 +31,12 @@ ___negrito___ ou ___italico___
 
 -[ ] tarefa 2
 
+## Sejam bem vindos
+
+  <center><h2>sejam bem vindos</h2></center>
+
+  ![texto de imagem](https://pt.dreamstime.com/photos-images/gato-usando-o-computador.html)
+
 <!--
 **matusaellopes/matusaellopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
