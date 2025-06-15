@@ -5,8 +5,11 @@
 <!--  Cabeçalhos   -->
 
 *italico* ou _italico_
+
 **negrito** ou __negrito__
+
 ___negrito___ ou ___italico___
+
 
 -lista 1
 -lista 2
